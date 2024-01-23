@@ -1,3 +1,11 @@
+// import { createSupabaseForServerComponent } from "@/lib/supabase.server";
+
 export default async function Page() {
-  return null;
+
+  // const supabase = createSupabaseForServerComponent();
+  return(
+    <div>
+      
+    </div>
+  )
 }
